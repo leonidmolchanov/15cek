@@ -1,0 +1,3 @@
+<?
+$MESS['COPYRIGHT']="TEST LOGO";
+?>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="15cek">
+    <serverData>
+      <paths name="15cek">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/bitrix/www/bitrix" />
+            <excludedPath path="/home/bitrix/www/company" />
+            <excludedPath path="/home/bitrix/www/contacts" />
+            <excludedPath path="/home/bitrix/www/images" />
+            <excludedPath path="/home/bitrix/www/news" />
+            <excludedPath path="/home/bitrix/www/products" />
+            <excludedPath path="/home/bitrix/www/search" />
+            <excludedPath path="/home/bitrix/www/services" />
+            <excludedPath path="/home/bitrix/www/site_jm" />
+            <excludedPath path="/home/bitrix/www/upload" />
+            <excludedPath path="/home/instagram/node_modules" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/company" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/contacts" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/news" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/products" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/search" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/services" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/site_jm" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix/www/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/instagram/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
