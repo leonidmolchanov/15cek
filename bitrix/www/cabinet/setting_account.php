@@ -64,7 +64,6 @@ CModule::IncludeModule('iblock');
                 <div class="mg-t-10"></div>
                 <textarea rows="3" class="form-control" id="addAccountCsrftocken" placeholder="csrftocken"></textarea>
             </div><!-- col -->
-
             <div class="col-lg">
                 <a href="#" onclick="addAccount()"
                    class="btn btn-success tx-11  tx-uppercase pd-y-12 pd-x-25 tx-mont tx-medium">Добавить</a>
